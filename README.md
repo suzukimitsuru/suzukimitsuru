@@ -50,8 +50,10 @@ Here are some ideas to get you started:
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,ts,cpp,react,python,rust,docker,aws" />
-<br>
+<img alt="my skills: language" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,ts,electron,cpp,c,c#,dotnet,python,java" /><br>
+<img alt="my skills: web" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,threejs,bootstrap,express,django,nginx" /><br>
+<img alt="my skills: tools" src="https://skillicons.dev/icons?theme=dark&perline=7&i=mysql,postgres,github,vscode,androidstudio" /><br>
+<img alt="my skills: OS" src="https://skillicons.dev/icons?theme=dark&perline=7&i=windows,ubuntu,,bash,cmake,docker,aws" /><br>
 
 ## 🏃‍♀️ Activities
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
