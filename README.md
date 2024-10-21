@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 コンピュータは分散して並列に動作するのが一番効率が良いし、美しいと考えます。  
 `BeOS`([日本語](https://ja.wikipedia.org/wiki/BeOS)/[English](https://en.wikipedia.org/wiki/BeOS))や`Plan 9 from Bell Labs`([日本語](https://ja.wikipedia.org/wiki/Plan_9_from_Bell_Labs)/[English](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs))は素晴らしいと思います。  
 
-- UniPacket: 通信パケットの設計や維持は大変です。JSONの柔軟性に要求/応答/通知などの種類や、バージョン/リビジョンなどの変更管理や、数値の単位も考慮した汎用の電文の規格とライブラリを開発したいと思っています。
+- UniTelegram: 通信電文の設計や維持は大変です。JSONの柔軟性に要求/応答/通知などの種類や、バージョン/リビジョンなどの変更管理や、数値の単位も考慮した汎用の電文の規格とライブラリを開発したいと思っています。
   - 最下層では、組み込み開発でも使い易い[COBS(Consistent Overhead Byte Stuffing)](https://en.wikipedia.org/wiki/Consistent_Overhead_Byte_Stuffing)を採用しようと考えています。
 
 ## 🌱 Skills
