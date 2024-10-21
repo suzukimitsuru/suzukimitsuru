@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## What I'm doing now
 
-私はプログラムを組む事がが好きです。  
+私はプログラムを組む事が好きです。  
 プログラムを組み易くする物を作りたいと思っています。  
 
 ### 1.プログラムの視覚化
